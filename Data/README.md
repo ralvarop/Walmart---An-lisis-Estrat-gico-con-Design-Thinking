@@ -1,0 +1,3 @@
+- **Datasets**:
+  - Walmart.xlsx muestra con las ventas y recomendaciones.
+  - Walmart Sales Data.csv muestra con ventas por pais y tiempos de entrega.
