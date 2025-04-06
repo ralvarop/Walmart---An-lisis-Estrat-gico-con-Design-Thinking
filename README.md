@@ -1,4 +1,4 @@
-# Sistema BI para Walmart - Proyecto Power BI con Design Thinking
+# Walmart - Proyecto Power BI con Design Thinking
 
 ## 📊 Descripción General
 
@@ -24,10 +24,10 @@ Se seleccionaron los siguientes **KPIs estratégicos**, alineados con los desaf�
 
 | Indicador                     | Justificación                                                                 |
 |------------------------------|------------------------------------------------------------------------------|
-| Nivel de stock por categoría | Optimiza la gestión de inventarios.                                          |
-| Ventas netas por región      | Permite analizar el desempeño geográfico.                                    |
-| Margen bruto                 | Mide rentabilidad y control de costos.                                       |
-| Tiempo medio de reposición  | Impacta directamente la experiencia del cliente.                             |
+| Nivel de Pedidos por categoría | Optimiza la gestión de inventarios.                                          |
+| Ventas brutas por región      | Permite analizar el desempeño geográfico.                                    |
+| Margen de ganancia bruto                 | Mide rentabilidad y control de costos.                                       |
+| Costos brutas       | Permite controlar la gestión de costos en producción.                                    |
 | Participación de ventas online | Evalúa la competitividad frente al canal digital.                            |
 
 📌 *Resultado*: Mapa de KPIs estratégicos y justificación por indicador.
@@ -76,7 +76,7 @@ El sistema fue validado en entorno académico, recibiendo retroalimentación par
 ## 📁 Archivos del Proyecto
 
 - `Dashboard Walmart.pbix` – Dashboard final en Power BI.
-- `Dinámica de Clase 5 - 6-Modificado.pdf` – Documento base del reto y metodología.
+- `Walmart.xlsx y Walmart Sales Data.csv` – Datasets del Dashboard final.
 - `README.md` – Descripción y documentación del proyecto.
 
 ---
