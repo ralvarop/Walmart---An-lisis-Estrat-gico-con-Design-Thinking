@@ -1,1 +1,5 @@
-# Sistema BI para Walmart - Proyecto Power BI con Design Thinking
+- **Dashbard Estratégico:**:
+  - Análsis de ventas.
+  - Análsis de desempeño.
+  - Análsis de NPS.
+  - Análsis de Costos.
